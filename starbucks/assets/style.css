@@ -1,0 +1,230 @@
+nav{
+    width: 100%;
+    height: 10%;
+    padding: 1%;
+    display: flex;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 10%), 0 2px 2px rgb(0 0 0 / 6%), 0 0 2px rgb(0 0 0 / 7%);
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.divlogo{
+    display: block;
+
+    width: 5%;
+    height: 100%;
+}
+
+.block{
+    width: 100%;
+    height: 100%;
+}
+
+.navlist{
+    margin-right: 10%;
+    width: 45%;
+    margin-top: 1%;
+
+}
+
+.navlist ul{
+    display: flex;
+    margin-right: 20%;
+}
+
+.navlist ul li{
+    margin-right: 5%;
+    list-style: none;
+}
+
+.navlist ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-style: bold;
+    
+}
+
+.rightside{
+ 
+    width: 40%;
+    display: flex;
+    justify-content: flex-end
+}
+
+.findStore{
+    text-decoration: none !important;
+    font-size: large;
+    font-style: bold;
+    color: black;
+    margin-right: 8%;
+    margin-top: 5px;
+}
+.signin{
+    color: black;
+    text-decoration: none !important;
+    padding: 7px 16px;
+    background: none;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    margin-right: 3%;
+}
+
+.joinnow{
+    color: white;
+    text-decoration: none !important;
+    padding: 7px 16px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+/* sekiller */
+
+.container{
+    height: 600px;
+}
+
+/* .section1{
+    display: flex;
+    width: 80%;
+} */
+
+.block2{
+    width: 100%;
+}
+
+.section11{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #d4e9e2;
+    text-align: center;
+}
+
+.section11 h3 , span{
+    width: 80%;
+}
+
+.section11 h3{
+    margin-top: 12%;
+}
+
+.section11 span{
+    margin-top: 5%;
+}
+
+.signinsection{
+    color: black;
+    text-decoration: none !important;
+    padding: 7px 16px;
+    background: none;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    margin-right: 3%;
+    margin-top: 5%;
+}
+
+
+.section21{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #006241;
+    text-align: center;
+    color: #ffffff;
+}
+
+.section21 h1{
+    margin-top: 25%;
+    width: 70%;
+
+}
+
+.section21 span{
+    width: 60%;
+}
+
+.section21button{
+    color: #ffffff;
+    text-decoration: none !important;
+    padding: 7px 16px;
+    background: none;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    margin-right: 3%;
+    margin-top: 5%;
+}
+
+.leftsidesectionwrite{
+    font-size: 24px;
+    margin-top: 15% !important;
+}
+
+.section5span{
+    width: 75% !important;
+    margin-top: 4% !important;
+}
+
+.footer{
+    align-items: center;
+    margin-top: 118%;
+}
+
+.footernav{
+    display: flex;
+    justify-content: flex-start;
+}
+
+ul{
+    list-style: none;
+}
+
+#careers{
+    width: 85%;
+}
+
+#sosialimpact{
+    width: 63%;
+
+}
+
+#landlord{
+    width: 85%;
+}
+
+#order{
+    width: 75%;
+}
+
+.h51{
+    margin-left: 24%;
+}
+
+.h52{
+    margin-left: 15%;
+}
+
+.h53{
+    margin-left: 11%;
+}
+
+.h54{
+    margin-left: 15%;
+}
+
+.h55{
+    margin-left: 13%;
+}
